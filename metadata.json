@@ -1,0 +1,6 @@
+{
+  "name": "Portal Berneck - Intranet Corporativa",
+  "description": "Portal corporativo e intranet oficial da Berneck: notícias, benefícios, RH, ponto eletrônico, holerites, treinamentos e autoatendimento para colaboradores.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
